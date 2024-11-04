@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 import OracleSelection from './components/OracleSelection';
 import LendingBorrowing from './screens/LendingBorrowing';
 import PriceFeed from './screens/PriceFeed';
-import NFT from './screens/nft';
+import NFT from './screens/CapstoneLabsNFT';
 import { useAccount } from 'wagmi';
 
 
